@@ -3,6 +3,8 @@ Course: CSC 173
 Name: Andy Feng Chen
 Email: afengche@u.rochester.edu
 
+This project implements a database simulation that utilzies search queries.
+
 (Building Instructions) Input the following in the command line:
 gcc -std=c99 -pedantic -Wall -Werror -o programName *.c
 
